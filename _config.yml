@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: voidhaze.github.io
 logo: /logo.png
 description: voidhaze sector zero one
-show_downloads: "true"
+show_downloads: "false"
