@@ -1,6 +1,6 @@
 # End of a Era
 
-Solemn regards to her majesty the Queen and for the years of service she provided to this country. As time marches ever one forward, we look back to reflect the past and remember the ever changing world.
+Solemn regards to her majesty the Queen and for the years of service she provided to this country. As time marches ever one forward, we look back to reflect the past and remember the moments of joy in this ever changing world.
 
 # Hello World
 
